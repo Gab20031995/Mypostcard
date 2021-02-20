@@ -7,7 +7,7 @@ padding: 2.5%;}
 input{font-size: 18px;}
 .postcard h1{margin: 0%;}
 .left-part{float: left ; width: 50% ;}
-.right-part{float: left ; width: 50% ;}
+.right-part{float: left ; width: 85% ;}
 .right-part input{display: block;}
 .postcard-down{padding:10px;text-align: center;}
-.postcard-down input[type=submit]{border: none;border-bottom: 1px  solid gray;}
+.postcard-down input[type=submit]{border: none;border-bottom: 1px  solid gray; }
